@@ -11,7 +11,7 @@ Using Makefile in the root directory of the project (make command):
 ```
     $ ls
     
-    ipkcpc.c Makefile Readme.md LICENSE 
+    ipkcpc.c Makefile Readme.md  
     
     $ make
     
@@ -19,7 +19,7 @@ Using Makefile in the root directory of the project (make command):
     
     $ ls
      
-    ipkcpc  ipkcpc.c  Makefile Readme.md LICENSE 
+    ipkcpc  ipkcpc.c  Makefile Readme.md  
 ```
 The client is started using: 
 ```
